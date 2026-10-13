@@ -183,12 +183,11 @@ Taking ownership, evaluating technical trade-offs, collaborating with teams, and
   <img src="https://img.shields.io/badge/🎓_Infinity_Academic_Pro-Education_Technology-6C63FF?style=for-the-badge" alt="Infinity Academic Pro"/>
 </a>
 
-### Building better digital experiences for educational institutions
+### Building better digital experiences for educational institutions using AI
 
 </div>
 
-**Infinity Academic Pro** is my education-focused software product initiative, aimed at helping academic institutions manage their digital workflows more effectively.
-
+ 
 Areas of engineering interest include:
 
 - 🏫 Academic and administrative workflows
