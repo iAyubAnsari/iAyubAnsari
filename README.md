@@ -61,7 +61,7 @@ LLMs · RAG · AI Applications
 
 ### 🚀 Building
 
-**Infinity Academic Pro**
+**AI Hobby Projects**
 
 Education Technology
 
