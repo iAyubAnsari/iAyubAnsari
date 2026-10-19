@@ -32,7 +32,7 @@ I believe engineering excellence is about more than writing code. It's about mak
 
 ### 💼 Professional Experience
 
-**9+ Years**
+**10+ Years**
 
 Software Engineering
 
