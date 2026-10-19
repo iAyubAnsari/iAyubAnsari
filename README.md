@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
-I'm a software engineer passionate about building reliable, maintainable, and scalable software. With **9+ years of professional experience**, I work across the full software development lifecycle — from understanding business requirements and designing architectures to building APIs, developing interfaces, and solving complex engineering problems.
+I'm a software engineer passionate about building reliable, maintainable, and scalable software. With **10+ years of professional experience**, I work across the full software development lifecycle — from understanding business requirements and designing architectures to building APIs, developing interfaces, and solving complex engineering problems.
 
 I believe engineering excellence is about more than writing code. It's about making good technical decisions, understanding trade-offs, taking ownership, and delivering software that creates real value.
 
